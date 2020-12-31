@@ -1,0 +1,9 @@
+# Reading Two Inriger...
+first_intiger = int(input())
+second_intiger = int(input())
+
+# producting the Numbers...
+PROD = first_intiger * second_intiger
+
+# Printing the result...
+print('PROD = {}'.format(PROD))
