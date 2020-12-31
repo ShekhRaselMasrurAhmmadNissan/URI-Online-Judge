@@ -1,0 +1,9 @@
+# Reading the Data...
+X = int(input())
+Y = float(input())
+
+# Calculating the consumption values...
+consumption = X / Y
+
+# Printing the result...
+print('{0:.3f} km/l'.format(consumption))
