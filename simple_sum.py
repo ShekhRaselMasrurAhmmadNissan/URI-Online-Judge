@@ -1,0 +1,9 @@
+# Reading two Intiger...
+A = int(input())
+B = int(input())
+
+# Sum of the number...
+SOMA = A + B
+
+# Printing the Sum...
+print('SOMA = {}'.format(SOMA))
