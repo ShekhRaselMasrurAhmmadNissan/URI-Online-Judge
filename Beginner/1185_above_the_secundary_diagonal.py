@@ -6,7 +6,7 @@ for i in range(12):
     for j in range(12):
         value = float(input())
 
-        if ((11 - i) < j):
+        if ((11 - i) > j):
             sum += value
             count += 1
 
